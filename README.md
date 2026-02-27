@@ -1,3 +1,10 @@
+## Quick navigation
+
+- Case studies
+- Evaluation frameworks
+- AI response reviews
+- Fact-checking workflows
+
 # Justin Emmanuel
 
 I work on AI evaluation and content-quality analysis: safety, factuality, reasoning quality, and structured review.
