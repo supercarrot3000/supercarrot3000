@@ -1,13 +1,13 @@
+# Justin Emmanuel
+
+I work on AI evaluation and content-quality analysis: safety, factuality, reasoning quality, and structured review.
+
 ## Quick navigation
 
 - Case studies
 - Evaluation frameworks
 - AI response reviews
 - Fact-checking workflows
-
-# Justin Emmanuel
-
-I work on AI evaluation and content-quality analysis: safety, factuality, reasoning quality, and structured review.
 
 ## Portfolio
 - **AI Evaluation Portfolio:** https://github.com/supercarrot3000/ai-evaluation-portfolio
